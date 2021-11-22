@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArunMah
 - 👀 I’m interested in Control Theory\Deep Learning\Computer Vision
-- 🌱 I’m currently studying B.Tech(Electronics and Instrumentation)
+- 🌱 I’m currently studying B.Tech(Electronics and Instrumentation) 2023
 - 📫 Can reach me on LinkedIn - https://www.linkedin.com/in/arunmah/
 
 <!---
